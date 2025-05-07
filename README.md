@@ -6,6 +6,10 @@ inspired by WhatsApp. It enables users to exchange messages individually or with
 ![image Screenshot]
 ![homepage](https://github.com/user-attachments/assets/d8cd2b28-cc50-4ff0-9c08-8abfafa55bd1)
 
+## Images 
+View your chats with other users:
+![homepage](https://github.com/user-attachments/assets/a64a717c-3f23-4192-baad-8544f90bd415)
+
 
 ## Features
 
