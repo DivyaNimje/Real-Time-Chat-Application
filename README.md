@@ -3,7 +3,7 @@
 Welcome to my Chat Application! This project is a full-fledged realtime messaging application with a user interface 
 inspired by WhatsApp. It enables users to exchange messages individually or within groups.
 
-![image Screenshot](./images/homepage.png)
+![image Screenshot]
 ![homepage](https://github.com/user-attachments/assets/d8cd2b28-cc50-4ff0-9c08-8abfafa55bd1)
 
 
@@ -70,22 +70,27 @@ Ensure you have **npm** and **mvn** installed on your machine.
 ## Images
 
 View your chats with other users:
-![image Screenshot](./images/homepage.png)
+![image Screenshot]([./images/homepage.png](https://github.com/user-attachments/assets/d8cd2b28-cc50-4ff0-9c08-8abfafa55bd1))
 
 Send messages to other users:
-![image Screenshot](./images/send_messages.png)
+![image Screenshot](![send_messages](https://github.com/user-attachments/assets/6b977a42-d407-42d4-b867-15de0e22be9f)
+)
 
 Log into your account:
-![image Screenshot](./images/signin.png)
+![image Screenshot](![signin](https://github.com/user-attachments/assets/8abf0c3b-c068-4735-a81c-ea620b3df7b9)
+)
 
 Create a new account:
-![image Screenshot](./images/signup.png)
+![image Screenshot](![signup](https://github.com/user-attachments/assets/e65f56ae-1d8b-4f93-9ce8-1e4a83347b5c)
+)
 
 Start a new chat:
-![image Screenshot](./images/start_new_group_chat.png)
+![image Screenshot](![start_new_group_chat](https://github.com/user-attachments/assets/4ae45f7d-48bd-4595-bf04-a4a0c5a6424a)
+)
 
 Edit your chats:
-![image Screenshot](./images/edit_group_chat.png)
+![image Screenshot](![edit_group_chat](https://github.com/user-attachments/assets/4bbed5aa-0c2f-43c3-b04b-c4ba3b1cc4b3)
+)
 
 ## Contribution Guidelines
 
