@@ -4,6 +4,8 @@ Welcome to my Chat Application! This project is a full-fledged realtime messagin
 inspired by WhatsApp. It enables users to exchange messages individually or within groups.
 
 ![image Screenshot](./images/homepage.png)
+![homepage](https://github.com/user-attachments/assets/d8cd2b28-cc50-4ff0-9c08-8abfafa55bd1)
+
 
 ## Features
 
