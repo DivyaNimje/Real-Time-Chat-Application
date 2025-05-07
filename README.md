@@ -10,6 +10,21 @@ inspired by WhatsApp. It enables users to exchange messages individually or with
 View your chats with other users:
 ![homepage](https://github.com/user-attachments/assets/a64a717c-3f23-4192-baad-8544f90bd415)
 
+Send messages to other users:
+![send_messages](https://github.com/user-attachments/assets/5f55e0ab-8ee1-4779-9fe5-318a14acb773)
+
+Log into your account:
+![signin](https://github.com/user-attachments/assets/0fae401f-2a30-4884-b3bd-8c319c783460)
+
+Create a new account:
+![signup](https://github.com/user-attachments/assets/672cfbb0-a8eb-4ae4-82e5-18d482aca818)
+
+Start a new chat:
+![start_new_group_chat](https://github.com/user-attachments/assets/617aa83b-6c39-4313-86ae-e8a543937178)
+
+Edit your chats:
+![edit_group_chat](https://github.com/user-attachments/assets/63761fb9-402b-4945-9fc4-4d92d76c4cd4)
+
 
 ## Features
 
